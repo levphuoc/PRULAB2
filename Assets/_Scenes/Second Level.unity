@@ -3339,6 +3339,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1353357363199371523, guid: eb6b6ecb7098dd746bf29a09951a4af2, type: 3}
+      propertyPath: health
+      value: 1
+      objectReference: {fileID: 0}
+
     - target: {fileID: 5419166844073633057, guid: eb6b6ecb7098dd746bf29a09951a4af2, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.0408
@@ -3420,6 +3425,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Meteor_1
       objectReference: {fileID: 0}
+
+    - target: {fileID: 2606273990682791640, guid: 3141e1de204a770498f15f26d0306700, type: 3}
+      propertyPath: maxSpeed
+      value: 2
+      objectReference: {fileID: 0}
+
     - target: {fileID: 3339980247350840644, guid: 3141e1de204a770498f15f26d0306700, type: 3}
       propertyPath: damage
       value: 2
@@ -3480,6 +3491,11 @@ PrefabInstance:
     - target: {fileID: 1132998347746746393, guid: 228d7b5d2cd084946886d248b91c2045, type: 3}
       propertyPath: m_Name
       value: Enemy
+      objectReference: {fileID: 0}
+
+    - target: {fileID: 3522101026911657980, guid: 228d7b5d2cd084946886d248b91c2045, type: 3}
+      propertyPath: health
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8848882263408810941, guid: 228d7b5d2cd084946886d248b91c2045, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3629,7 +3645,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3894180147303386013, guid: ada19b8b4a857d7449db678993dbb756, type: 3}
       propertyPath: health
-      value: 15
+      value: 10
+
       objectReference: {fileID: 0}
     - target: {fileID: 5196012088974254811, guid: ada19b8b4a857d7449db678993dbb756, type: 3}
       propertyPath: m_LocalPosition.x

@@ -329,7 +329,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d60a866d53e743843b143fb49a563c2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 150
+
+  health: 50
+
   moneyToGive: 1000
   explosion: {fileID: 2716930544453021238, guid: c56ebe0ca06dcec4499727342f4d51b4, type: 3}
   damageColor: {r: 1, g: 0, b: 0, a: 1}
