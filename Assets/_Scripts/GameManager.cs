@@ -19,7 +19,9 @@ public class GameManager : MonoBehaviour
     public GameObject[] enemies;
     public Boundary boundary;
     public Vector2 spawnWait;
+
     public int enemyCountMax = 3;//them cai nay nua 
+
     public float spawnWaitMin;
     public float waveWait;
     public float waveWaitMin;

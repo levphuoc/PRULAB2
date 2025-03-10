@@ -2423,7 +2423,9 @@ MonoBehaviour:
   bossCaller: {fileID: 564490480446722881, guid: ada19b8b4a857d7449db678993dbb756, type: 3}
   bossPrefab: {fileID: 8707240720419331027, guid: 78822f2f4dfdc2b4a81fd3f83cb2b71c, type: 3}
   starProgressBar: {fileID: 447914185}
+
   maxStars: 5
+
   nextLevelScreen: Second Level
 --- !u!4 &1033778612
 Transform:
